@@ -45,6 +45,8 @@
 #ifndef BME68X_H_
 #define BME68X_H_
 
+#define BME68X_DO_NOT_USE_FPU
+
 #include "bme68x_defs.h"
 
 /* CPP guard */
